@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ivl-Nunez
+- 👀 I’m interested in programming, living off grid, and retro gaming
+- 🌱 I’m currently learning a variety of things...but react native is one of them
+- 💞️ I’m not looking to collaborate on anything currently
+- 📫 You can reach me at mnunez777@protonmail.com
